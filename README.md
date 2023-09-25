@@ -8,13 +8,13 @@
 4. Write a Python program to create a class representing a queue data structure. Include methods for enqueueing and dequeueing elements.
 5. Write a Python program to create a class representing a bank. Include methods for managing customer accounts and transactions.
 ## Questions Table
-| First Header       | Second Header |
+| QUESTIONS          | LINKS         |
 | ------------------ | ------------- |
-| Ques1: Calculator  | https://github.com/GreshaaRampal/Test/blob/main/Calculator.py  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Ques1: Calculator  | [Calculator](https://github.com/GreshaaRampal/Test/blob/main/Calculator.py)  |
+| Ques2: Stack       | [Stack](https://github.com/GreshaaRampal/Test/blob/main/Stack.py)  |
+| Ques3: Shopping    | [Shopping](https://github.com/GreshaaRampal/Test/blob/main/Shopping.py)  |
+| Ques4: Queue       | [Queue](https://github.com/GreshaaRampal/Test/blob/main/Queue.py)https://github.com/GreshaaRampal/Test/blob/main/Queue.py  |
+| Ques5: Bank        | Content Cell  |
 
 
 
