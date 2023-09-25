@@ -1,5 +1,12 @@
 # Test
-## Questions
+## Task
 1. Write a Python program to create a class representing a Circle. Include methods to calculate its area and perimeter.
-2. Write a Python program to create a calculator class. Include methods for basic arithmetic operations.
+## Questions
+1. Write a Python program to create a calculator class. Include methods for basic arithmetic operations.
+2. Write a Python program to create a class representing a stack data structure. Include methods for pushing and popping elements.
+3. Write a Python program to create a class representing a shopping cart. Include methods for adding and removing items, and calculating the total price.
+4. Write a Python program to create a class representing a queue data structure. Include methods for enqueueing and dequeueing elements.
+5. Write a Python program to create a class representing a bank. Include methods for managing customer accounts and transactions.
+
+
 
