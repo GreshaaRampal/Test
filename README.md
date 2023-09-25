@@ -13,8 +13,8 @@
 | Ques1: Calculator  | [Calculator](https://github.com/GreshaaRampal/Test/blob/main/Calculator.py)  |
 | Ques2: Stack       | [Stack](https://github.com/GreshaaRampal/Test/blob/main/Stack.py)  |
 | Ques3: Shopping    | [Shopping](https://github.com/GreshaaRampal/Test/blob/main/Shopping.py)  |
-| Ques4: Queue       | [Queue](https://github.com/GreshaaRampal/Test/blob/main/Queue.py)https://github.com/GreshaaRampal/Test/blob/main/Queue.py  |
-| Ques5: Bank        | Content Cell  |
+| Ques4: Queue       | [Queue](https://github.com/GreshaaRampal/Test/blob/main/Queue.py)  |
+| Ques5: Bank        | [Bank](https://github.com/GreshaaRampal/Test/blob/main/Bank.py)  |
 
 
 
