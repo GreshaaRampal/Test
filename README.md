@@ -15,6 +15,8 @@
 | Ques3: Shopping    | [Shopping](https://github.com/GreshaaRampal/Test/blob/main/Shopping.py)  |
 | Ques4: Queue       | [Queue](https://github.com/GreshaaRampal/Test/blob/main/Queue.py)  |
 | Ques5: Bank        | [Bank](https://github.com/GreshaaRampal/Test/blob/main/Bank.py)  |
-
-
+### Write a python program to read a file and write the contents to another file and push the file onto  GitHub.
+[Python code](https://github.com/GreshaaRampal/Test/blob/main/File.py)
+[Input file](https://github.com/GreshaaRampal/Test/blob/main/Input_file.txt)
+[Output file](https://github.com/GreshaaRampal/Test/blob/main/Output_file.txt)
 
