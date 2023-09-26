@@ -1,1 +1,4 @@
 Write a python program to read a file and write the contents to another file and push the file onto github
+Check the input file
+copy content to output file
+Hello world
